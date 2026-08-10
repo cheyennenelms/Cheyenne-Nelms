@@ -1,7 +1,7 @@
 # Cheyenne-Nelms
 Welcome to my GitHub portfolio. I am currently building my skills in data analytics through the Google Data Analytics Professional Certificate while earning my bachelor's degree in Entertainment Business with a concentration in Music Business.
 ## Professional Introduction
-I am an aspiring data analyst currently developing my skills in SQL, Excel, data visualization, and data analysis. My background in Entertainment Business, with a concentration in Music Business, has sparked my interest in using data to better understand the music and entertainment industries.
+Hi! My name is Cheyenne, and I’m an aspiring data analyst currently developing my skills in SQL, Excel, data visualization, and data analysis. My background in Entertainment Business, with a concentration in Music Business, has sparked my interest in using data to better understand the music and entertainment industries.
 ## Skills
 - SQL
 - Excel
@@ -33,7 +33,11 @@ I am an aspiring data analyst currently developing my skills in SQL, Excel, data
 
 ![Professional Headshot](Images/cheyenne-photo.png)
 
+I am currently building my foundation in data analytics while earning my bachelor's degree in Entertainment Business with a concentration in Music Business. My interest in data comes from wanting to understand how information can be used to identify patterns, answer meaningful questions, and support better decisions.
 
+As I continue developing my skills, I am gaining hands-on experience with tools such as SQL, Excel, and data visualization. My goal is to build a portfolio that demonstrates not only my technical abilities, but also my ability to approach real-world questions, communicate insights clearly, and turn data into a meaningful story.
+
+I am especially interested in opportunities where data analytics and the music and entertainment industries intersect. I plan to continue expanding this portfolio as I complete new projects and develop as a data professional.
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/cheyenne-nelms/)
