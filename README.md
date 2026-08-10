@@ -19,7 +19,7 @@ Hi! My name is Cheyenne, and I’m an aspiring data analyst currently developing
 
 *An analysis using Excel to clean, explore, visualize, and communicate insights from data.*
 
-- ### Capestone Project
+- ### Capstone Project
 **Coming Soon**
 
 *My largest and most advanced portfolio project, bringing together the data analytics skills i develop throughout my learning journey.*
