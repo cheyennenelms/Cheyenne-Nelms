@@ -1,6 +1,6 @@
 # Cheyenne-Nelms
 Welcome to my GitHub portfolio. I am currently building my skills in data analytics through the Google Data Analytics Professional Certificate while earning my bachelor's degree in Entertainment Business with a concentration in Music Business.
-## About Me
+## Professional Introduction
 I am an aspiring data analyst currently developing my skills in SQL, Excel, data visualization, and data analysis. My background in Entertainment Business, with a concentration in Music Business, has sparked my interest in using data to better understand the music and entertainment industries.
 ## Skills
 - SQL
@@ -28,6 +28,11 @@ I am an aspiring data analyst currently developing my skills in SQL, Excel, data
 **Coming Soon**
 
 *An end-to-end data analysis project that combines multiple tools and skills to explore a real-world question, uncover insights, and communicate findings.*
+
+## About Me
+
+
+
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/cheyenne-nelms/)
