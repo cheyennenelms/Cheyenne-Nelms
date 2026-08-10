@@ -31,7 +31,7 @@ I am an aspiring data analyst currently developing my skills in SQL, Excel, data
 
 ## About Me
 
-![Professional Headshot](images/Cheyenne's professional photo.png)
+![Professional Headshot](images/Cheyenne's Professional Photo.png)
 
 
 
