@@ -25,7 +25,9 @@ Hi! My name is Cheyenne, and I’m an aspiring data analyst currently developing
 *My largest and most advanced portfolio project, bringing together the data analytics skills i develop throughout my learning journey.*
 
 - ### Data Analysis Project
-**Coming Soon**
+[**Piper Audience Insights**](https://github.com/cheyennenelms/piper-audience-insights)
+
+*Survey-based market research on Pixar's short film Piper — survey design, primary data collection (n=10), analysis, visualization, and strategic recommendations.*
 
 *An end-to-end data analysis project that combines multiple tools and skills to explore a real-world question, uncover insights, and communicate findings.*
 
