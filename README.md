@@ -33,7 +33,7 @@ Hi! My name is Cheyenne, and I’m an aspiring data analyst currently developing
 
 ## About Me
 
-![Professional Headshot](Images/cheyenne-photo.png)
+![Professional Headshot](Images/cheyenne-pro-pic.png)
 
 I am currently building my foundation in data analytics while earning my bachelor's degree in Entertainment Business with a concentration in Music Business. My interest in data comes from wanting to understand how information can be used to identify patterns, answer meaningful questions, and support better decisions.
 
