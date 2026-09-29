@@ -31,6 +31,11 @@ Hi! My name is Cheyenne, and I’m an aspiring data analyst currently developing
 
 *An end-to-end data analysis project that combines multiple tools and skills to explore a real-world question, uncover insights, and communicate findings.*
 
+- ### Brand Strategy Project
+[**Echo Nova**](https://github.com/cheyennenelms/Echo-Nova)
+
+Music data analytics brand concept for independent artists — end-to-end brand identity, product concept, partnership strategy, and go-to-market plan.
+
 ## About Me
 
 ![Professional Headshot](Images/cheyenne-pro-pic.png)
