@@ -34,7 +34,7 @@ Hi! My name is Cheyenne, and I’m an aspiring data analyst currently developing
 - ### Brand Strategy Project
 [**Echo Nova**](https://github.com/cheyennenelms/Echo-Nova)
 
-Music data analytics brand concept for independent artists — end-to-end brand identity, product concept, partnership strategy, and go-to-market plan.
+*Music data analytics brand concept for independent artists — end-to-end brand identity, product concept, partnership strategy, and go-to-market plan.*
 
 ## About Me
 
